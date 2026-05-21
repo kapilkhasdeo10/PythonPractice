@@ -29,3 +29,11 @@ print(count)
 # my_list = [8, 10, 6, 2, 4]
 # my_list.sort()
 # print(my_list)
+
+my_list = [10,8,6,4,2]
+new_list = my_list[-1:1]
+print(new_list)
+
+del my_list[:]
+print(my_list)
+
