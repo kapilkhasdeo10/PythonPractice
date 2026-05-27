@@ -88,6 +88,13 @@
 # # z = int(x) + int(y)
 # # print("sum: ",z)
 
+    
+    
+    
+    
+    
+    
+    
     # functions
 
 # # def scope_test():
@@ -177,16 +184,16 @@
     
 
 
-def countdown(num):
-    print(num)
-    if num == 0:
-        return
-    else:
-        print("Going in rec:", num)
-        countdown(num -1)
-        print("Out of rec", num)
+# def countdown(num):
+#     print(num)
+#     if num == 0:
+#         return
+#     else:
+#         print("Going in rec:", num)
+#         countdown(num -1)
+#         print("Out of rec", num)
 
-print("Starting recursion")
-countdown(5)
-print("Completed recursion") 
+# print("Starting recursion")
+# countdown(5)
+# print("Completed recursion") 
 
