@@ -91,7 +91,45 @@
 
 # pol_eng_dictionary ={"kwiat": "flower"}
 # pol_eng_dictionary.update({"gleba": "soil"})
-#  method, and remove the last element by using the 
+#  method, and remove the last element
 # print(pol_eng_dictionary)
 # pol_eng_dictionary.popitem()
 # print(pol_eng_dictionary)
+
+
+
+#------Oops-------
+#----class-------
+
+# class ThisIsMyFirstClass:
+#     name = "kapil"
+#     age = 20
+    
+#     def getname(self):
+#         print(self.name)   
+
+# firstObject = ThisIsMyFirstClass()
+# print(firstObject)
+
+# firstObject.getname()
+# print(firstObject.name)
+
+# class student:
+#     def __init__(self):
+#         self.name = ""
+#         self.age = 0
+#         self.gender = ""
+#         self.grade = ""
+
+# kapil = student()
+# print(kapil)
+
+# kapil.name = "kapil khasdeo"
+# kapil.age = 20
+# kapil.gender = "male"
+# kapil.grade = "12th"
+
+# print(kapil.name)
+# print(kapil.age)
+# print(kapil.gender)
+# print(kapil.grade)
